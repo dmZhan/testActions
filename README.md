@@ -1,6 +1,6 @@
 
 ```
-electron-demo
+testActions
 ├─ .npmrc
 ├─ assets
 │  ├─ appdmg.png

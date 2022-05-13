@@ -1,5 +1,5 @@
 {
-  "name": "electron-demo",
+  "name": "testActions",
   "version": "1.0.12",
   "description": "",
   "main": "main.js",
@@ -19,7 +19,7 @@
   "homepage": "./",
   "build": {
     "appId": "electronDemo",
-    "productName": "electron-demo",
+    "productName": "testActions",
     "files": [
       "build/**/*",
       "node_modules/**/*",
@@ -88,14 +88,14 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "myadmin",
-        "repo": "electron-demo"
+        "owner": "zzzZZZ1117",
+        "repo": "testActions"
       }
     ]
   },
   "keywords": [],
   "author": {
-    "name": "myadmin",
+    "name": "zzzZZZ1117",
     "email": "yang16829@163.com"
   },
   "license": "ISC",

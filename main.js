@@ -55,8 +55,8 @@ app.on('window-all-closed', () => {
 // });
 // autoUpdater.setFeedURL({
 //     provider: 'github',
-//     repo: 'electron-demo',
-//     owner: 'myadmin',
+//     repo: 'testActions',
+//     owner: 'zzzZZZ1117',
 //     private: true,
 //     token: ''
 // });

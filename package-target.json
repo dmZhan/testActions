@@ -1,5 +1,5 @@
 {
-  "name": "electron-demo",
+  "name": "testActions",
   "version": "1.0.4",
   "description": "",
   "main": "main.js",
@@ -81,13 +81,13 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "myadmin",
-        "repo": "electron-demo"
+        "owner": "zzzZZZ1117",
+        "repo": "testActions"
       }
     ]
   },
   "keywords": [],
-  "author": "myadmin",
+  "author": "zzzZZZ1117",
   "license": "ISC",
   "dependencies": {
     "electron-is-dev": "^2.0.0",
